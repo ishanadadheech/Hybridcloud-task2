@@ -10,7 +10,7 @@
 <body bgcolor=white>
 <h1 style="color:blue" align=center> HEY WELCOME TO HYBRID MULTI CLOUD TASK-2 </h1>
 <div class="img-container"> <!-- Block parent element -->
-<img src="https://task-bucket1122.s3.ap-south-1.amazonaws.com/download.png" height="300px" width="500px" >
+<img src="https://task-bucket1122.s3.ap-south-1.amazonaws.com/aws-efs.jpg" height="300px" width="500px" >
 </div>
 <h2 style="color:purple" align=center> Thank You for this amazing task!     </h2>
 </body>
