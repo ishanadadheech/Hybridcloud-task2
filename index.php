@@ -12,6 +12,6 @@
 <div class="img-container"> <!-- Block parent element -->
 <img src="https://task-bucket1122.s3.ap-south-1.amazonaws.com/aws-efs.jpg" height="300px" width="500px" >
 </div>
-<h2 style="color:purple" align=center> Thank You for this amazing task!     </h2>
+<h2 style="color:purple" align=center> Thank You for this amazing task!</h2>
 </body>
 </html>
